@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 19 and why they'll be important to you as a data scientist.
+This short lesson summarizes the topics we covered in this section and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 * Understand and explain why this section will help you become a data scientist
 
 ## Key Takeaways
-Section 19 was all about building further on your statistics foundations by introducing the Central Limit Theorem and confidence intervals.  Some of the key takeaways include:
+This section was all about building further on your statistics foundations by introducing the Central Limit Theorem and confidence intervals.  Some of the key takeaways include:
 
 * The Central Limit Theorem states that often, independent random variables summed together will converge to a normal distribution as the number of variables increases
 * Using Central Limit Theorem, we can work with non-normally distributed data sets as if they were normally distributed
