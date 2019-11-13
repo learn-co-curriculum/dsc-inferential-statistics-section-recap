@@ -1,5 +1,5 @@
 
-# Section Recap
+#  Central Limit Theorem and Confidence Intervals - Recap
 
 ## Introduction
 
